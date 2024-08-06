@@ -6,7 +6,7 @@ Also of particular interest are the create_dp_table functions, which implement a
 that can then be used to find the most optimal sentence alignment for each pair of texts.
 
 "google.1grams.txt", "normal.11.counts.txt", and "simple.11.counts.txt" are .txt files containing a list of all words that 
-occurred in each of a Google dataset, Normal Wikipedia dataset, and Simple Wikipedia dataset.
+occurred in each of a Google dataset, Normal Wikipedia dataset, and Simple Wikipedia dataset. These have not been uploaded to the GitHub due to size limits.
 
 In the Summary Spreadsheets folder you can find all the key results using these functions.
 
